@@ -8,6 +8,7 @@
 - Entity Mapping
     - Embeddable, Embedded
     - ** TO **
+
 2024-03-20 (완)
 - Domain Model Pattern
 - JPA Criteria
